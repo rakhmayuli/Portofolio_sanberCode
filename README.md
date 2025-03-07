@@ -1,8 +1,8 @@
 ## Bootcamp Intensive QA Engineer, SanberCode 
 (January 2025 – February 2025)
 
-- [Certificate](https://drive.google.com/file/d/1d05kjE_GXP-wwtZVKsBpDA-rzgxA2df-/view?usp=sharing)
-- [Report](https://drive.google.com/file/d/1wXmnMTA_ii5OJ37nOQEbZp3N6T0n0NKj/view?usp=sharing)
+### - [Certificate](https://drive.google.com/file/d/1d05kjE_GXP-wwtZVKsBpDA-rzgxA2df-/view?usp=sharing)
+### - [Report](https://drive.google.com/file/d/1wXmnMTA_ii5OJ37nOQEbZp3N6T0n0NKj/view?usp=sharing)
 
 Covered Modules:
 
